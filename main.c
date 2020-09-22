@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-//Salut tout le monde !
+//Salut tout le monde ! Bienvenue sur GitHub
