@@ -44,5 +44,4 @@ int main()
   m_reveil = m_reveil%60;
 
   printf("Le reveil doit sonner a %d heures et %d minutes.", h_reveil, m_reveil);
-
 }
