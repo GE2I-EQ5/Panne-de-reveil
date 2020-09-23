@@ -3,7 +3,7 @@
 int main()
 {
   int m_reveil, h_reveil, m_cours, h_cours;
-  int m_bus = 420; //7h 7*60
+  int m_bus = 420; //
   _Bool frigo;
 
   printf("Le frigo est-il plein ? Entrez 1 pour plein et 0 pour vide : ");
@@ -27,8 +27,7 @@ int main()
 
   m_bus -=11;
 
-  //
-  printf("%d\n", m_bus);
+  //printf("%d\n", m_bus);
 
   if(frigo == 1) //Si frigo plein
   {
