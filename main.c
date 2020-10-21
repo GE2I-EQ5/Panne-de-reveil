@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
   int m_reveil, h_reveil, m_cours, h_cours;
   int m_bus = 420; //
